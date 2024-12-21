@@ -2,15 +2,15 @@
 
 In this study, multiple GRU-based models and the CNFGNN architecture are investigated for their effectiveness in spatiotemporal traffic prediction tasks using the PEMS-BAY and METR-LA datasets. The models were evaluated based on three key metrics: RMSE for predictive accuracy, training time for computational efficiency and competence of CNFGNN in inductive settings. The Jupyter Notebook, named final.ipynb, contains the complete documentation and Python implementation for training, evaluation, and comparison of the models. The inductive.ipynb file the necessary setup for evaluating performance of CNFGNN in inductive settings.
 # VAE Architecture with Perceptual Loss
-![Autoencoder Network Architecture](images/VAE-with-perceptual-loss-architecture-overview.png)
+![Autoencoder Network Architecture](images/compemsbay.png)
 # Encoder Decoder Architecture
-![Autoencoder Network Architecture](images/VAE.png)
+![Autoencoder Network Architecture](images/compemsbay.png)
 # Loss with PVAE
-![Autoencoder Network Architecture](images/Loss_VAE.png)
+![Autoencoder Network Architecture](images/time1.png)
 # Loss with CVAE-PL
-![Autoencoder Network Architecture](images/Loss_VAE123.png)
+![Autoencoder Network Architecture](images/time2.png)
 # Reconstruction with PVAE
-![Autoencoder Network Architecture](images/reconstuction_with_plain_VAE.png)
+![Autoencoder Network Architecture](images/.png)
 # Reconstruction with CVAE_PL
 ![Autoencoder Network Architecture](images/reconstuction_with_VAE_123.png)
 # New Face Generation with PVAE
