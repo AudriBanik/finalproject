@@ -1,4 +1,4 @@
-# Celebrity Image Reconstruction using Deep Convolutional Variational AutoEncoder with Perceptual Loss (CVAE-PL)
+# Cross-Node Federated Graph Neural Network for Spatio-Temporal Data Modeling
 
 In this study, multiple GRU-based models and the CNFGNN architecture are investigated for their effectiveness in spatiotemporal traffic prediction tasks using the PEMS-BAY and METR-LA datasets. The models were evaluated based on three key metrics: RMSE for predictive accuracy, training time for computational efficiency and competence of CNFGNN in inductive settings. The Jupyter Notebook, named [final.ipynb](final.ipynb), contains the complete documentation and Python implementation for training, evaluation, and comparison of the models. The [inductive.ipynb](inductive.ipynb) file has the necessary setup for evaluating the performance of CNFGNN in inductive settings.
 # RMSE for CNFGNN and other base methods over 10 epochs on PEMS-BAY dataset
