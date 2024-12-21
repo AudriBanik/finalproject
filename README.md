@@ -1,6 +1,6 @@
 # Celebrity Image Reconstruction using Deep Convolutional Variational AutoEncoder with Perceptual Loss (CVAE-PL)
 
-In this study, multiple GRU-based models and the CNFGNN architecture are investigated for their effectiveness in spatiotemporal traffic prediction tasks using the PEMS-BAY and METR-LA datasets. The models were evaluated based on three key metrics: RMSE for predictive accuracy, training time for computational efficiency and competence of CNFGNN in inductive settings. The Jupyter Notebook, named final.ipynb, contains the complete documentation and Python implementation for training, evaluation, and comparison of the models. The inductive.ipynb file the necessary setup for evaluating performance of CNFGNN in inductive settings.
+In this study, multiple GRU-based models and the CNFGNN architecture are investigated for their effectiveness in spatiotemporal traffic prediction tasks using the PEMS-BAY and METR-LA datasets. The models were evaluated based on three key metrics: RMSE for predictive accuracy, training time for computational efficiency and competence of CNFGNN in inductive settings. The Jupyter Notebook, named [final.ipynb](final.ipynb), contains the complete documentation and Python implementation for training, evaluation, and comparison of the models. The [inductive.ipynb](inductive.ipynb) file the necessary setup for evaluating performance of CNFGNN in inductive settings.
 # RMSE for CNFGNN and other base methods over 10 epochs on PEMS-BAY dataset
 ![RMSE for CNFGNN and other base methods over 10 epochs on PEMS-BAY dataset](images/compemsbay.png)
 # RMSE for CNFGNN and other base methods over 10 epochs on METR-LA dataset
@@ -20,9 +20,8 @@ For the investigations, the publicly accessible PEMS-BAY and METR-LA datasets ar
 
 ### How to Use
 1. Make a local copy of the repository.
-2. Launch and operate the Jupyter Notebook or Google Colab notebook [Perceptual_Loss_in_VAE.ipynb](Perceptual_Loss_in_VAE.ipynb) in your preferred environment.
-3. Use the notebook's instructions to experiment with the VAE models and evaluate how well they work.
-
+2. Launch and operate the Jupyter Notebook or Google Colab notebook [final.ipynb](final.ipynb) in your preferred environment to train the models and evaluate their RMSE and training time comparison.
+3. Launch and operate the Jupyter Notebook or Google Colab notebook [inductive.ipynb](inductive.ipynb) in your preferred environment to see how well the CNFGNN model is performing over different percentage of seen nodes.
 ### Give Google Colab a try!
 By clicking the link at the top of the notebook, you may quickly examine and run the source code in a Google Colab environment. You can also check [here](http://colab.research.google.com/github/AbhiJeet70/PerceptualLossVAE/blob/main/Perceptual_Loss_in_VAE.ipynb)
 
