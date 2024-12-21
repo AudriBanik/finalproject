@@ -16,7 +16,7 @@ In this study, multiple GRU-based models and the CNFGNN architecture are investi
 
 
 ### Dataset
-For the investigations, the publicly accessible CelebFaces Attributes (CelebA) dataset is used.  For easy access, the dataset has been incorporated into the codebase. The CelebA dataset is described in further detail [here](http://mmlab.ie.cuhk.edu.hk/projects/CelebA.html).
+For the investigations, the publicly accessible PEMS-BAY and METR-LA datasets are used.  For easy access, the datasets have been incorporated into the codebase. The PEMS-BAY and METR-LA datasets are described in further detail [here](http://mmlab.ie.cuhk.edu.hk/projects/CelebA.html).
 
 ### How to Use
 1. Make a local copy of the repository.
