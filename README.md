@@ -1,14 +1,14 @@
 # Celebrity Image Reconstruction using Deep Convolutional Variational AutoEncoder with Perceptual Loss (CVAE-PL)
 
 In this study, multiple GRU-based models and the CNFGNN architecture are investigated for their effectiveness in spatiotemporal traffic prediction tasks using the PEMS-BAY and METR-LA datasets. The models were evaluated based on three key metrics: RMSE for predictive accuracy, training time for computational efficiency and competence of CNFGNN in inductive settings. The Jupyter Notebook, named final.ipynb, contains the complete documentation and Python implementation for training, evaluation, and comparison of the models. The inductive.ipynb file the necessary setup for evaluating performance of CNFGNN in inductive settings.
-# VAE Architecture with Perceptual Loss
-![Autoencoder Network Architecture](images/compemsbay.png)
-# Encoder Decoder Architecture
-![Autoencoder Network Architecture](images/compemsbay.png)
-# Loss with PVAE
-![Autoencoder Network Architecture](images/time1.png)
-# Loss with CVAE-PL
-![Autoencoder Network Architecture](images/time2.png)
+# RMSE for CNFGNN and other base methods over 10 epochs on PEMS-BAY dataset
+![RMSE for CNFGNN and other base methods over 10 epochs on PEMS-BAY dataset](images/compemsbay.png)
+# RMSE for CNFGNN and other base methods over 10 epochs on METR-LA dataset
+![RMSE for CNFGNN and other base methods over 10 epochs on METR-LA dataset](images/compemsbay.png)
+# Model training time comparison for PEMS-BAY dataset
+![Model training time comparison for PEMS-BAY dataset](images/time1.png)
+# Model training time comparison for METR-LA dataset
+![Model training time comparison for METR-LA dataset](images/time2.png)
 # CNFGNN’s RMSE on PEMS-BAY dataset in inductive settings
 ![CNFGNN’s RMSE on PEMS-BAY dataset in inductive settings](images/CNFGNN_RMSE_PEMS-BAY_ind.png)
 # CNFGNN’s RMSE on METR-LA dataset in inductive settings
