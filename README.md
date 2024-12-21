@@ -10,13 +10,10 @@ In this study, multiple GRU-based models and the CNFGNN architecture are investi
 # Loss with CVAE-PL
 ![Autoencoder Network Architecture](images/time2.png)
 # Reconstruction with PVAE
-![Autoencoder Network Architecture](images/.png)
+![Autoencoder Network Architecture](images/CNFGNN_RMSE_PEMS-BAY_ind.png)
 # Reconstruction with CVAE_PL
-![Autoencoder Network Architecture](images/reconstuction_with_VAE_123.png)
-# New Face Generation with PVAE
-![Autoencoder Network Architecture](images/NewFace_PVAE.png)
-# New Face Generation with CVAE_PL
-![Autoencoder Network Architecture](images/NewFace_VAE123.png)
+![Autoencoder Network Architecture](images/CNFGNN_RMSE_METR-LA_ind.png)
+
 
 ### Dataset
 For the investigations, the publicly accessible CelebFaces Attributes (CelebA) dataset is used.  For easy access, the dataset has been incorporated into the codebase. The CelebA dataset is described in further detail [here](http://mmlab.ie.cuhk.edu.hk/projects/CelebA.html).
