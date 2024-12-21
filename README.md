@@ -16,7 +16,7 @@ In this study, multiple GRU-based models and the CNFGNN architecture are investi
 
 
 ### Dataset
-For the investigations, the publicly accessible PEMS-BAY and METR-LA datasets are used.  For easy access, the datasets have been incorporated into the codebase. The PEMS-BAY and METR-LA datasets are described in further detail [here](http://mmlab.ie.cuhk.edu.hk/projects/CelebA.html).
+For the investigations, the publicly accessible PEMS-BAY and METR-LA datasets are used.  For easy access, the datasets have been incorporated into the codebase. The PEMS-BAY and METR-LA datasets are described in further detail [here](https://zenodo.org/records/5146275).
 
 ### How to Use
 1. Make a local copy of the repository.
