@@ -9,10 +9,10 @@ In this study, multiple GRU-based models and the CNFGNN architecture are investi
 ![Autoencoder Network Architecture](images/time1.png)
 # Loss with CVAE-PL
 ![Autoencoder Network Architecture](images/time2.png)
-# Reconstruction with PVAE
-![Autoencoder Network Architecture](images/CNFGNN_RMSE_PEMS-BAY_ind.png)
-# Reconstruction with CVAE_PL
-![Autoencoder Network Architecture](images/CNFGNN_RMSE_METR-LA_ind.png)
+# CNFGNN’s RMSE on PEMS-BAY dataset in inductive settings
+![CNFGNN’s RMSE on PEMS-BAY dataset in inductive settings](images/CNFGNN_RMSE_PEMS-BAY_ind.png)
+# CNFGNN’s RMSE on METR-LA dataset in inductive settings
+![CNFGNN’s RMSE on METR-LA dataset in inductive settings](images/CNFGNN_RMSE_METR-LA_ind.png)
 
 
 ### Dataset
