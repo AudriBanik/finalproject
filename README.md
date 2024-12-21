@@ -20,8 +20,8 @@ For the investigations, the publicly accessible PEMS-BAY and METR-LA datasets ar
 
 ### How to Use
 1. Make a local copy of the repository.
-2. Launch and operate the Notebook on your device or on Google Colab/kaggle [final.ipynb](final.ipynb) as you prefer to train the models and evaluate their RMSE and training time comparison.
-3. Launch and operate the Notebook on your device or on Google Colab/kaggle [inductive.ipynb](inductive.ipynb) to see how well the CNFGNN model is performing over different percentage of seen nodes.
+2. Launch and operate the Notebook [final.ipynb](final.ipynb) on your device or on Google Colab/kaggle as you prefer to train the models and evaluate their RMSE and training time comparison.
+3. Launch and operate the Notebook [inductive.ipynb](inductive.ipynb) on your device or on Google Colab/kaggle to see how well the CNFGNN model is performing over different percentage of seen nodes.
 ### Give Google Colab a try!
 By clicking the link at the top of the notebook, you may quickly examine and run the source code in a Google Colab environment. You can also check [here](https://colab.research.google.com/drive/1_GnVBOWcQHRvK8JIWlWyA_o1P2M20awR?usp=sharing) for the model training and evaluation and [here](https://colab.research.google.com/drive/1XE1P29Om3NdzbrUzVR6P9sbWDn6e1POX?usp=sharing) for inductive settings code.
 
