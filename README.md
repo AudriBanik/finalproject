@@ -4,7 +4,7 @@ In this study, multiple GRU-based models and the CNFGNN architecture are investi
 # RMSE for CNFGNN and other base methods over 10 epochs on PEMS-BAY dataset
 ![RMSE for CNFGNN and other base methods over 10 epochs on PEMS-BAY dataset](images/compemsbay.png)
 # RMSE for CNFGNN and other base methods over 10 epochs on METR-LA dataset
-![RMSE for CNFGNN and other base methods over 10 epochs on METR-LA dataset](images/compemsbay.png)
+![RMSE for CNFGNN and other base methods over 10 epochs on METR-LA dataset](images/commetrla.png)
 # Model training time comparison for PEMS-BAY dataset
 ![Model training time comparison for PEMS-BAY dataset](images/time1.png)
 # Model training time comparison for METR-LA dataset
